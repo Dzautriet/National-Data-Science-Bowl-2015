@@ -1,0 +1,1044 @@
+---Split 0---
+Batch: 0, loss 4.7942.
+Batch: 100, loss 2.1579.
+Batch: 200, loss 2.0752.
+Batch: 300, loss 2.0971.
+Batch: 400, loss 1.8889.
+Batch: 500, loss 1.7546.
+Batch: 600, loss 1.3705.
+Batch: 700, loss 1.6816.
+Batch: 800, loss 1.4417.
+Batch: 900, loss 1.3370.
+Batch: 1000, loss 1.3004.
+Epoch: 0/1000, training loss: 1.6929, train acc: 0.5141, vali loss: 1.4904, vali acc: 0.5607.
+Batch: 0, loss 1.1664.
+Batch: 100, loss 1.2634.
+Batch: 200, loss 1.2249.
+Batch: 300, loss 1.1963.
+Batch: 400, loss 1.1652.
+Batch: 500, loss 1.2719.
+Batch: 600, loss 1.1345.
+Batch: 700, loss 0.9210.
+Batch: 800, loss 1.2823.
+Batch: 900, loss 1.1115.
+Batch: 1000, loss 1.3181.
+Epoch: 1/1000, training loss: 1.1049, train acc: 0.6535, vali loss: 1.0665, vali acc: 0.6762.
+Batch: 0, loss 1.0632.
+Batch: 100, loss 0.9529.
+Batch: 200, loss 0.8018.
+Batch: 300, loss 0.8414.
+Batch: 400, loss 0.8902.
+Batch: 500, loss 0.6979.
+Batch: 600, loss 1.0898.
+Batch: 700, loss 1.0457.
+Batch: 800, loss 0.7320.
+Batch: 900, loss 0.6361.
+Batch: 1000, loss 0.7719.
+Epoch: 2/1000, training loss: 0.9245, train acc: 0.7046, vali loss: 1.0057, vali acc: 0.6996.
+Batch: 0, loss 0.7720.
+Batch: 100, loss 0.7764.
+Batch: 200, loss 0.8206.
+Batch: 300, loss 0.8496.
+Batch: 400, loss 0.7940.
+Batch: 500, loss 0.7234.
+Batch: 600, loss 0.4506.
+Batch: 700, loss 0.7143.
+Batch: 800, loss 0.8074.
+Batch: 900, loss 0.9234.
+Batch: 1000, loss 0.9657.
+Epoch: 3/1000, training loss: 0.7995, train acc: 0.7363, vali loss: 1.0228, vali acc: 0.6912.
+Batch: 0, loss 0.7537.
+Batch: 100, loss 0.5817.
+Batch: 200, loss 0.6081.
+Batch: 300, loss 0.6478.
+Batch: 400, loss 0.4959.
+Batch: 500, loss 0.9454.
+Batch: 600, loss 0.7884.
+Batch: 700, loss 0.6979.
+Batch: 800, loss 0.5370.
+Batch: 900, loss 0.7390.
+Batch: 1000, loss 0.6694.
+Epoch: 4/1000, training loss: 0.7098, train acc: 0.7625, vali loss: 0.9590, vali acc: 0.7168.
+Batch: 0, loss 0.6217.
+Batch: 100, loss 0.6797.
+Batch: 200, loss 0.6231.
+Batch: 300, loss 0.6365.
+Batch: 400, loss 0.8504.
+Batch: 500, loss 0.6512.
+Batch: 600, loss 0.6209.
+Batch: 700, loss 0.6298.
+Batch: 800, loss 0.6339.
+Batch: 900, loss 0.7278.
+Batch: 1000, loss 0.5547.
+Epoch: 5/1000, training loss: 0.6328, train acc: 0.7858, vali loss: 0.9388, vali acc: 0.7199.
+Batch: 0, loss 0.5423.
+Batch: 100, loss 0.5469.
+Batch: 200, loss 0.6576.
+Batch: 300, loss 0.6295.
+Batch: 400, loss 0.6108.
+Batch: 500, loss 0.4972.
+Batch: 600, loss 0.4402.
+Batch: 700, loss 0.5301.
+Batch: 800, loss 0.5250.
+Batch: 900, loss 0.5033.
+Batch: 1000, loss 0.5534.
+Epoch: 6/1000, training loss: 0.5694, train acc: 0.8056, vali loss: 0.9787, vali acc: 0.7139.
+Batch: 0, loss 0.4501.
+Batch: 100, loss 0.3931.
+Batch: 200, loss 0.3827.
+Batch: 300, loss 0.6407.
+Batch: 400, loss 0.4746.
+Batch: 500, loss 0.5228.
+Batch: 600, loss 0.5048.
+Batch: 700, loss 0.5121.
+Batch: 800, loss 0.6647.
+Batch: 900, loss 0.5227.
+Batch: 1000, loss 0.4861.
+Epoch: 7/1000, training loss: 0.5082, train acc: 0.8251, vali loss: 1.0153, vali acc: 0.7165.
+Batch: 0, loss 0.5597.
+Batch: 100, loss 0.4218.
+Batch: 200, loss 0.5105.
+Batch: 300, loss 0.5043.
+Batch: 400, loss 0.4898.
+Batch: 500, loss 0.5250.
+Batch: 600, loss 0.3590.
+Batch: 700, loss 0.3910.
+Batch: 800, loss 0.3886.
+Batch: 900, loss 0.5427.
+Batch: 1000, loss 0.3904.
+Epoch: 8/1000, training loss: 0.4648, train acc: 0.8386, vali loss: 0.9770, vali acc: 0.7228.
+Batch: 0, loss 0.3092.
+Batch: 100, loss 0.3946.
+Batch: 200, loss 0.3036.
+Batch: 300, loss 0.5277.
+Batch: 400, loss 0.4234.
+Batch: 500, loss 0.4939.
+Batch: 600, loss 0.4325.
+Batch: 700, loss 0.3853.
+Batch: 800, loss 0.5599.
+Batch: 900, loss 0.2734.
+Batch: 1000, loss 0.3768.
+Epoch: 9/1000, training loss: 0.4215, train acc: 0.8528, vali loss: 1.0208, vali acc: 0.7315.
+Batch: 0, loss 0.4454.
+Batch: 100, loss 0.3415.
+Batch: 200, loss 0.4831.
+Batch: 300, loss 0.4397.
+Batch: 400, loss 0.6136.
+Batch: 500, loss 0.3900.
+Batch: 600, loss 0.3349.
+Batch: 700, loss 0.3407.
+Batch: 800, loss 0.4035.
+Batch: 900, loss 0.2312.
+Batch: 1000, loss 0.4934.
+Epoch: 10/1000, training loss: 0.3917, train acc: 0.8643, vali loss: 1.0705, vali acc: 0.7168.
+Early stopping
+Best epoch: 5, best loss: 0.9388.
+---Split 1---
+Batch: 0, loss 4.9972.
+Batch: 100, loss 2.1634.
+Batch: 200, loss 1.9552.
+Batch: 300, loss 1.6594.
+Batch: 400, loss 1.5963.
+Batch: 500, loss 1.5500.
+Batch: 600, loss 1.5151.
+Batch: 700, loss 1.4621.
+Batch: 800, loss 1.3190.
+Batch: 900, loss 1.1756.
+Batch: 1000, loss 1.3898.
+Epoch: 0/1000, training loss: 1.6943, train acc: 0.5139, vali loss: 1.3167, vali acc: 0.5994.
+Batch: 0, loss 1.2047.
+Batch: 100, loss 1.1945.
+Batch: 200, loss 1.0588.
+Batch: 300, loss 1.1489.
+Batch: 400, loss 1.1247.
+Batch: 500, loss 0.9472.
+Batch: 600, loss 0.9299.
+Batch: 700, loss 1.1952.
+Batch: 800, loss 0.9792.
+Batch: 900, loss 1.2026.
+Batch: 1000, loss 1.1179.
+Epoch: 1/1000, training loss: 1.1112, train acc: 0.6546, vali loss: 1.0489, vali acc: 0.6754.
+Batch: 0, loss 0.8534.
+Batch: 100, loss 0.8471.
+Batch: 200, loss 0.9290.
+Batch: 300, loss 0.9412.
+Batch: 400, loss 0.8801.
+Batch: 500, loss 0.9101.
+Batch: 600, loss 0.8824.
+Batch: 700, loss 0.9748.
+Batch: 800, loss 1.0316.
+Batch: 900, loss 0.8591.
+Batch: 1000, loss 0.8670.
+Epoch: 2/1000, training loss: 0.9203, train acc: 0.7040, vali loss: 0.9988, vali acc: 0.6930.
+Batch: 0, loss 0.9577.
+Batch: 100, loss 0.7288.
+Batch: 200, loss 0.7529.
+Batch: 300, loss 0.6805.
+Batch: 400, loss 0.8857.
+Batch: 500, loss 0.8815.
+Batch: 600, loss 0.8957.
+Batch: 700, loss 0.6607.
+Batch: 800, loss 0.7110.
+Batch: 900, loss 0.6633.
+Batch: 1000, loss 0.7650.
+Epoch: 3/1000, training loss: 0.8003, train acc: 0.7371, vali loss: 0.9251, vali acc: 0.7173.
+Batch: 0, loss 0.5539.
+Batch: 100, loss 0.7101.
+Batch: 200, loss 0.8907.
+Batch: 300, loss 0.5830.
+Batch: 400, loss 0.9545.
+Batch: 500, loss 0.6704.
+Batch: 600, loss 0.8911.
+Batch: 700, loss 0.7208.
+Batch: 800, loss 0.7572.
+Batch: 900, loss 0.6619.
+Batch: 1000, loss 0.5668.
+Epoch: 4/1000, training loss: 0.7071, train acc: 0.7639, vali loss: 1.0291, vali acc: 0.7002.
+Batch: 0, loss 0.7159.
+Batch: 100, loss 0.5818.
+Batch: 200, loss 0.5665.
+Batch: 300, loss 0.6563.
+Batch: 400, loss 0.4931.
+Batch: 500, loss 0.5476.
+Batch: 600, loss 0.6579.
+Batch: 700, loss 0.5434.
+Batch: 800, loss 0.6374.
+Batch: 900, loss 0.6391.
+Batch: 1000, loss 0.6655.
+Epoch: 5/1000, training loss: 0.6367, train acc: 0.7831, vali loss: 0.9833, vali acc: 0.7184.
+Batch: 0, loss 0.5674.
+Batch: 100, loss 0.5508.
+Batch: 200, loss 0.5746.
+Batch: 300, loss 0.4653.
+Batch: 400, loss 0.4711.
+Batch: 500, loss 0.5213.
+Batch: 600, loss 0.5330.
+Batch: 700, loss 0.6517.
+Batch: 800, loss 0.6455.
+Batch: 900, loss 0.4133.
+Batch: 1000, loss 0.5185.
+Epoch: 6/1000, training loss: 0.5679, train acc: 0.8050, vali loss: 0.9578, vali acc: 0.7281.
+Batch: 0, loss 0.4495.
+Batch: 100, loss 0.4684.
+Batch: 200, loss 0.4105.
+Batch: 300, loss 0.6199.
+Batch: 400, loss 0.6002.
+Batch: 500, loss 0.5561.
+Batch: 600, loss 0.5152.
+Batch: 700, loss 0.4573.
+Batch: 800, loss 0.4963.
+Batch: 900, loss 0.3874.
+Batch: 1000, loss 0.4370.
+Epoch: 7/1000, training loss: 0.5112, train acc: 0.8223, vali loss: 0.9427, vali acc: 0.7336.
+Batch: 0, loss 0.4589.
+Batch: 100, loss 0.4914.
+Batch: 200, loss 0.4578.
+Batch: 300, loss 0.5467.
+Batch: 400, loss 0.3048.
+Batch: 500, loss 0.3646.
+Batch: 600, loss 0.4388.
+Batch: 700, loss 0.4971.
+Batch: 800, loss 0.5908.
+Batch: 900, loss 0.3947.
+Batch: 1000, loss 0.6147.
+Epoch: 8/1000, training loss: 0.4649, train acc: 0.8393, vali loss: 0.9571, vali acc: 0.7410.
+Early stopping
+Best epoch: 3, best loss: 0.9251.
+---Split 2---
+Batch: 0, loss 4.8107.
+Batch: 100, loss 2.5351.
+Batch: 200, loss 1.8144.
+Batch: 300, loss 1.6748.
+Batch: 400, loss 1.5052.
+Batch: 500, loss 1.5268.
+Batch: 600, loss 1.2085.
+Batch: 700, loss 1.3286.
+Batch: 800, loss 1.3748.
+Batch: 900, loss 1.1019.
+Batch: 1000, loss 1.3108.
+Epoch: 0/1000, training loss: 1.6940, train acc: 0.5129, vali loss: 1.4811, vali acc: 0.5699.
+Batch: 0, loss 1.4196.
+Batch: 100, loss 1.2413.
+Batch: 200, loss 1.1492.
+Batch: 300, loss 1.2233.
+Batch: 400, loss 1.1803.
+Batch: 500, loss 1.2521.
+Batch: 600, loss 1.2768.
+Batch: 700, loss 1.0616.
+Batch: 800, loss 1.0265.
+Batch: 900, loss 0.8405.
+Batch: 1000, loss 1.0806.
+Epoch: 1/1000, training loss: 1.1180, train acc: 0.6510, vali loss: 1.1778, vali acc: 0.6508.
+Batch: 0, loss 0.8389.
+Batch: 100, loss 0.8537.
+Batch: 200, loss 0.9742.
+Batch: 300, loss 1.0249.
+Batch: 400, loss 0.9482.
+Batch: 500, loss 1.1488.
+Batch: 600, loss 0.8731.
+Batch: 700, loss 0.9550.
+Batch: 800, loss 1.0188.
+Batch: 900, loss 0.8355.
+Batch: 1000, loss 0.8761.
+Epoch: 2/1000, training loss: 0.9258, train acc: 0.7017, vali loss: 1.0158, vali acc: 0.6891.
+Batch: 0, loss 0.7458.
+Batch: 100, loss 0.7414.
+Batch: 200, loss 0.9031.
+Batch: 300, loss 0.9149.
+Batch: 400, loss 0.8335.
+Batch: 500, loss 1.0024.
+Batch: 600, loss 0.6980.
+Batch: 700, loss 0.7374.
+Batch: 800, loss 0.9058.
+Batch: 900, loss 0.7978.
+Batch: 1000, loss 0.8757.
+Epoch: 3/1000, training loss: 0.8058, train acc: 0.7345, vali loss: 0.9593, vali acc: 0.7144.
+Batch: 0, loss 0.5997.
+Batch: 100, loss 0.5798.
+Batch: 200, loss 0.7966.
+Batch: 300, loss 0.7418.
+Batch: 400, loss 0.9337.
+Batch: 500, loss 0.6181.
+Batch: 600, loss 0.6787.
+Batch: 700, loss 0.7712.
+Batch: 800, loss 0.5902.
+Batch: 900, loss 0.7185.
+Batch: 1000, loss 0.7796.
+Epoch: 4/1000, training loss: 0.7146, train acc: 0.7604, vali loss: 0.9444, vali acc: 0.7189.
+Batch: 0, loss 0.5085.
+Batch: 100, loss 0.8349.
+Batch: 200, loss 0.7324.
+Batch: 300, loss 0.6506.
+Batch: 400, loss 0.6322.
+Batch: 500, loss 0.8957.
+Batch: 600, loss 0.7369.
+Batch: 700, loss 0.5048.
+Batch: 800, loss 0.7040.
+Batch: 900, loss 0.6803.
+Batch: 1000, loss 0.6723.
+Epoch: 5/1000, training loss: 0.6406, train acc: 0.7822, vali loss: 0.9230, vali acc: 0.7286.
+Batch: 0, loss 0.6201.
+Batch: 100, loss 0.6072.
+Batch: 200, loss 0.5162.
+Batch: 300, loss 0.5378.
+Batch: 400, loss 0.7152.
+Batch: 500, loss 0.6677.
+Batch: 600, loss 0.4120.
+Batch: 700, loss 0.6350.
+Batch: 800, loss 0.4700.
+Batch: 900, loss 0.5830.
+Batch: 1000, loss 0.5226.
+Epoch: 6/1000, training loss: 0.5704, train acc: 0.8039, vali loss: 1.0337, vali acc: 0.7133.
+Batch: 0, loss 0.4386.
+Batch: 100, loss 0.6488.
+Batch: 200, loss 0.5742.
+Batch: 300, loss 0.5139.
+Batch: 400, loss 0.5642.
+Batch: 500, loss 0.6242.
+Batch: 600, loss 0.4830.
+Batch: 700, loss 0.5196.
+Batch: 800, loss 0.5587.
+Batch: 900, loss 0.4835.
+Batch: 1000, loss 0.4681.
+Epoch: 7/1000, training loss: 0.5166, train acc: 0.8211, vali loss: 1.0551, vali acc: 0.7120.
+Batch: 0, loss 0.6449.
+Batch: 100, loss 0.5755.
+Batch: 200, loss 0.5314.
+Batch: 300, loss 0.4046.
+Batch: 400, loss 0.4108.
+Batch: 500, loss 0.4116.
+Batch: 600, loss 0.4385.
+Batch: 700, loss 0.4463.
+Batch: 800, loss 0.5939.
+Batch: 900, loss 0.4202.
+Batch: 1000, loss 0.4086.
+Epoch: 8/1000, training loss: 0.4698, train acc: 0.8367, vali loss: 1.0662, vali acc: 0.7155.
+Batch: 0, loss 0.3571.
+Batch: 100, loss 0.3570.
+Batch: 200, loss 0.4573.
+Batch: 300, loss 0.4178.
+Batch: 400, loss 0.4415.
+Batch: 500, loss 0.3844.
+Batch: 600, loss 0.3906.
+Batch: 700, loss 0.3578.
+Batch: 800, loss 0.4918.
+Batch: 900, loss 0.4244.
+Batch: 1000, loss 0.5590.
+Epoch: 9/1000, training loss: 0.4274, train acc: 0.8517, vali loss: 0.9793, vali acc: 0.7389.
+Batch: 0, loss 0.4144.
+Batch: 100, loss 0.4188.
+Batch: 200, loss 0.3712.
+Batch: 300, loss 0.5343.
+Batch: 400, loss 0.5924.
+Batch: 500, loss 0.3785.
+Batch: 600, loss 0.4688.
+Batch: 700, loss 0.3681.
+Batch: 800, loss 0.3512.
+Batch: 900, loss 0.3756.
+Batch: 1000, loss 0.3483.
+Epoch: 10/1000, training loss: 0.3920, train acc: 0.8639, vali loss: 1.0956, vali acc: 0.7213.
+Early stopping
+Best epoch: 5, best loss: 0.9230.
+---Split 3---
+Batch: 0, loss 4.9296.
+Batch: 100, loss 2.1689.
+Batch: 200, loss 2.0351.
+Batch: 300, loss 1.8878.
+Batch: 400, loss 1.7627.
+Batch: 500, loss 1.4452.
+Batch: 600, loss 1.5610.
+Batch: 700, loss 1.3123.
+Batch: 800, loss 1.1406.
+Batch: 900, loss 1.1302.
+Batch: 1000, loss 1.1107.
+Epoch: 0/1000, training loss: 1.6955, train acc: 0.5160, vali loss: 1.3417, vali acc: 0.5955.
+Batch: 0, loss 1.3113.
+Batch: 100, loss 1.2680.
+Batch: 200, loss 1.0589.
+Batch: 300, loss 1.3265.
+Batch: 400, loss 1.1299.
+Batch: 500, loss 1.1090.
+Batch: 600, loss 1.0199.
+Batch: 700, loss 1.1190.
+Batch: 800, loss 1.1463.
+Batch: 900, loss 1.0395.
+Batch: 1000, loss 0.9466.
+Epoch: 1/1000, training loss: 1.1095, train acc: 0.6535, vali loss: 1.1090, vali acc: 0.6738.
+Batch: 0, loss 0.8783.
+Batch: 100, loss 1.1453.
+Batch: 200, loss 0.8443.
+Batch: 300, loss 0.7434.
+Batch: 400, loss 0.9796.
+Batch: 500, loss 0.8429.
+Batch: 600, loss 0.9542.
+Batch: 700, loss 1.0142.
+Batch: 800, loss 0.9122.
+Batch: 900, loss 0.9476.
+Batch: 1000, loss 0.9551.
+Epoch: 2/1000, training loss: 0.9220, train acc: 0.7025, vali loss: 0.9133, vali acc: 0.7165.
+Batch: 0, loss 0.6258.
+Batch: 100, loss 0.7823.
+Batch: 200, loss 0.8542.
+Batch: 300, loss 0.8959.
+Batch: 400, loss 0.8211.
+Batch: 500, loss 0.7124.
+Batch: 600, loss 0.7565.
+Batch: 700, loss 0.6799.
+Batch: 800, loss 0.7493.
+Batch: 900, loss 0.6886.
+Batch: 1000, loss 0.8594.
+Epoch: 3/1000, training loss: 0.8029, train acc: 0.7357, vali loss: 0.9174, vali acc: 0.7249.
+Batch: 0, loss 0.8779.
+Batch: 100, loss 0.7808.
+Batch: 200, loss 0.8997.
+Batch: 300, loss 0.6657.
+Batch: 400, loss 0.6259.
+Batch: 500, loss 0.7228.
+Batch: 600, loss 0.5913.
+Batch: 700, loss 0.8250.
+Batch: 800, loss 0.7636.
+Batch: 900, loss 0.9082.
+Batch: 1000, loss 0.7790.
+Epoch: 4/1000, training loss: 0.7081, train acc: 0.7620, vali loss: 1.0273, vali acc: 0.6907.
+Batch: 0, loss 0.6718.
+Batch: 100, loss 0.6292.
+Batch: 200, loss 0.7122.
+Batch: 300, loss 0.7238.
+Batch: 400, loss 0.6201.
+Batch: 500, loss 0.5879.
+Batch: 600, loss 0.4524.
+Batch: 700, loss 0.5544.
+Batch: 800, loss 0.5461.
+Batch: 900, loss 0.5136.
+Batch: 1000, loss 0.6027.
+Epoch: 5/1000, training loss: 0.6297, train acc: 0.7864, vali loss: 0.8553, vali acc: 0.7460.
+Batch: 0, loss 0.5450.
+Batch: 100, loss 0.5760.
+Batch: 200, loss 0.5264.
+Batch: 300, loss 0.4525.
+Batch: 400, loss 0.5135.
+Batch: 500, loss 0.5859.
+Batch: 600, loss 0.6178.
+Batch: 700, loss 0.5221.
+Batch: 800, loss 0.6870.
+Batch: 900, loss 0.6027.
+Batch: 1000, loss 0.6464.
+Epoch: 6/1000, training loss: 0.5651, train acc: 0.8055, vali loss: 0.9387, vali acc: 0.7210.
+Batch: 0, loss 0.5472.
+Batch: 100, loss 0.3826.
+Batch: 200, loss 0.4993.
+Batch: 300, loss 0.4216.
+Batch: 400, loss 0.5809.
+Batch: 500, loss 0.4902.
+Batch: 600, loss 0.6230.
+Batch: 700, loss 0.4535.
+Batch: 800, loss 0.3579.
+Batch: 900, loss 0.4239.
+Batch: 1000, loss 0.5007.
+Epoch: 7/1000, training loss: 0.5077, train acc: 0.8242, vali loss: 0.9110, vali acc: 0.7376.
+Batch: 0, loss 0.3663.
+Batch: 100, loss 0.4701.
+Batch: 200, loss 0.3945.
+Batch: 300, loss 0.4567.
+Batch: 400, loss 0.4300.
+Batch: 500, loss 0.6809.
+Batch: 600, loss 0.3444.
+Batch: 700, loss 0.6013.
+Batch: 800, loss 0.4569.
+Batch: 900, loss 0.4586.
+Batch: 1000, loss 0.3525.
+Epoch: 8/1000, training loss: 0.4637, train acc: 0.8402, vali loss: 0.9282, vali acc: 0.7326.
+Batch: 0, loss 0.3911.
+Batch: 100, loss 0.5576.
+Batch: 200, loss 0.3762.
+Batch: 300, loss 0.4257.
+Batch: 400, loss 0.3393.
+Batch: 500, loss 0.5042.
+Batch: 600, loss 0.3876.
+Batch: 700, loss 0.4103.
+Batch: 800, loss 0.3587.
+Batch: 900, loss 0.2713.
+Batch: 1000, loss 0.3535.
+Epoch: 9/1000, training loss: 0.4205, train acc: 0.8541, vali loss: 0.9515, vali acc: 0.7395.
+Batch: 0, loss 0.3203.
+Batch: 100, loss 0.5352.
+Batch: 200, loss 0.3302.
+Batch: 300, loss 0.3841.
+Batch: 400, loss 0.3677.
+Batch: 500, loss 0.4537.
+Batch: 600, loss 0.4449.
+Batch: 700, loss 0.3764.
+Batch: 800, loss 0.4924.
+Batch: 900, loss 0.4143.
+Batch: 1000, loss 0.2904.
+Epoch: 10/1000, training loss: 0.3876, train acc: 0.8651, vali loss: 0.9476, vali acc: 0.7368.
+Early stopping
+Best epoch: 5, best loss: 0.8553.
+---Split 4---
+Batch: 0, loss 4.9625.
+Batch: 100, loss 2.3793.
+Batch: 200, loss 2.0271.
+Batch: 300, loss 2.0295.
+Batch: 400, loss 1.4903.
+Batch: 500, loss 1.5155.
+Batch: 600, loss 1.5663.
+Batch: 700, loss 1.3680.
+Batch: 800, loss 1.3450.
+Batch: 900, loss 1.1761.
+Batch: 1000, loss 1.2176.
+Epoch: 0/1000, training loss: 1.6851, train acc: 0.5169, vali loss: 1.1774, vali acc: 0.6498.
+Batch: 0, loss 1.3460.
+Batch: 100, loss 1.2254.
+Batch: 200, loss 1.1258.
+Batch: 300, loss 0.9579.
+Batch: 400, loss 1.0669.
+Batch: 500, loss 1.1008.
+Batch: 600, loss 1.1526.
+Batch: 700, loss 0.9444.
+Batch: 800, loss 0.9813.
+Batch: 900, loss 1.0954.
+Batch: 1000, loss 1.0231.
+Epoch: 1/1000, training loss: 1.1076, train acc: 0.6545, vali loss: 1.1297, vali acc: 0.6627.
+Batch: 0, loss 0.9288.
+Batch: 100, loss 1.2918.
+Batch: 200, loss 0.8861.
+Batch: 300, loss 0.8087.
+Batch: 400, loss 0.9544.
+Batch: 500, loss 0.8812.
+Batch: 600, loss 0.8778.
+Batch: 700, loss 0.8817.
+Batch: 800, loss 1.0264.
+Batch: 900, loss 0.8706.
+Batch: 1000, loss 0.8209.
+Epoch: 2/1000, training loss: 0.9119, train acc: 0.7052, vali loss: 1.0298, vali acc: 0.6909.
+Batch: 0, loss 0.8002.
+Batch: 100, loss 0.7948.
+Batch: 200, loss 0.9311.
+Batch: 300, loss 0.7003.
+Batch: 400, loss 0.7596.
+Batch: 500, loss 0.8467.
+Batch: 600, loss 0.6628.
+Batch: 700, loss 0.8229.
+Batch: 800, loss 0.8042.
+Batch: 900, loss 0.7426.
+Batch: 1000, loss 0.6119.
+Epoch: 3/1000, training loss: 0.7949, train acc: 0.7373, vali loss: 1.0861, vali acc: 0.6817.
+Batch: 0, loss 0.7617.
+Batch: 100, loss 0.7029.
+Batch: 200, loss 0.8571.
+Batch: 300, loss 0.8404.
+Batch: 400, loss 0.6078.
+Batch: 500, loss 0.6370.
+Batch: 600, loss 0.5816.
+Batch: 700, loss 0.7470.
+Batch: 800, loss 0.6985.
+Batch: 900, loss 0.7642.
+Batch: 1000, loss 0.6931.
+Epoch: 4/1000, training loss: 0.7040, train acc: 0.7629, vali loss: 0.9230, vali acc: 0.7265.
+Batch: 0, loss 0.6160.
+Batch: 100, loss 0.7281.
+Batch: 200, loss 0.7565.
+Batch: 300, loss 0.5963.
+Batch: 400, loss 0.5580.
+Batch: 500, loss 0.5836.
+Batch: 600, loss 0.5572.
+Batch: 700, loss 0.5476.
+Batch: 800, loss 0.6527.
+Batch: 900, loss 0.6407.
+Batch: 1000, loss 0.4750.
+Epoch: 5/1000, training loss: 0.6274, train acc: 0.7856, vali loss: 0.9314, vali acc: 0.7141.
+Batch: 0, loss 0.5139.
+Batch: 100, loss 0.5685.
+Batch: 200, loss 0.4738.
+Batch: 300, loss 0.6670.
+Batch: 400, loss 0.6260.
+Batch: 500, loss 0.6112.
+Batch: 600, loss 0.6482.
+Batch: 700, loss 0.5927.
+Batch: 800, loss 0.4955.
+Batch: 900, loss 0.5419.
+Batch: 1000, loss 0.6320.
+Epoch: 6/1000, training loss: 0.5639, train acc: 0.8050, vali loss: 0.9276, vali acc: 0.7297.
+Batch: 0, loss 0.5668.
+Batch: 100, loss 0.3557.
+Batch: 200, loss 0.4145.
+Batch: 300, loss 0.5507.
+Batch: 400, loss 0.3663.
+Batch: 500, loss 0.4890.
+Batch: 600, loss 0.2410.
+Batch: 700, loss 0.5326.
+Batch: 800, loss 0.4160.
+Batch: 900, loss 0.3268.
+Batch: 1000, loss 0.5228.
+Epoch: 7/1000, training loss: 0.5076, train acc: 0.8244, vali loss: 0.9386, vali acc: 0.7355.
+Batch: 0, loss 0.4760.
+Batch: 100, loss 0.3441.
+Batch: 200, loss 0.5682.
+Batch: 300, loss 0.5121.
+Batch: 400, loss 0.3656.
+Batch: 500, loss 0.5854.
+Batch: 600, loss 0.3347.
+Batch: 700, loss 0.4912.
+Batch: 800, loss 0.5316.
+Batch: 900, loss 0.3779.
+Batch: 1000, loss 0.5158.
+Epoch: 8/1000, training loss: 0.4586, train acc: 0.8413, vali loss: 1.0732, vali acc: 0.7097.
+Batch: 0, loss 0.3758.
+Batch: 100, loss 0.3334.
+Batch: 200, loss 0.4487.
+Batch: 300, loss 0.3957.
+Batch: 400, loss 0.4618.
+Batch: 500, loss 0.3518.
+Batch: 600, loss 0.3679.
+Batch: 700, loss 0.4428.
+Batch: 800, loss 0.3182.
+Batch: 900, loss 0.4415.
+Batch: 1000, loss 0.4545.
+Epoch: 9/1000, training loss: 0.4180, train acc: 0.8540, vali loss: 0.9813, vali acc: 0.7466.
+Early stopping
+Best epoch: 4, best loss: 0.9230.
+---Split 5---
+Batch: 0, loss 4.9363.
+Batch: 100, loss 2.2217.
+Batch: 200, loss 1.9801.
+Batch: 300, loss 1.8133.
+Batch: 400, loss 1.5882.
+Batch: 500, loss 1.5408.
+Batch: 600, loss 1.4103.
+Batch: 700, loss 1.2284.
+Batch: 800, loss 1.4040.
+Batch: 900, loss 1.2785.
+Batch: 1000, loss 1.2835.
+Epoch: 0/1000, training loss: 1.6954, train acc: 0.5155, vali loss: 1.4421, vali acc: 0.5720.
+Batch: 0, loss 1.2501.
+Batch: 100, loss 1.2762.
+Batch: 200, loss 1.2759.
+Batch: 300, loss 1.3508.
+Batch: 400, loss 1.1628.
+Batch: 500, loss 1.3090.
+Batch: 600, loss 1.2809.
+Batch: 700, loss 0.9894.
+Batch: 800, loss 1.0477.
+Batch: 900, loss 1.2644.
+Batch: 1000, loss 1.0049.
+Epoch: 1/1000, training loss: 1.1245, train acc: 0.6494, vali loss: 1.0909, vali acc: 0.6624.
+Batch: 0, loss 0.9780.
+Batch: 100, loss 0.9986.
+Batch: 200, loss 0.9317.
+Batch: 300, loss 0.7858.
+Batch: 400, loss 0.8759.
+Batch: 500, loss 1.0025.
+Batch: 600, loss 0.7699.
+Batch: 700, loss 0.8526.
+Batch: 800, loss 0.8202.
+Batch: 900, loss 0.8991.
+Batch: 1000, loss 0.8281.
+Epoch: 2/1000, training loss: 0.9275, train acc: 0.7008, vali loss: 0.9667, vali acc: 0.7020.
+Batch: 0, loss 0.7297.
+Batch: 100, loss 0.7815.
+Batch: 200, loss 0.7745.
+Batch: 300, loss 0.9037.
+Batch: 400, loss 0.9142.
+Batch: 500, loss 0.9847.
+Batch: 600, loss 0.7670.
+Batch: 700, loss 0.8509.
+Batch: 800, loss 0.7579.
+Batch: 900, loss 0.9394.
+Batch: 1000, loss 0.7694.
+Epoch: 3/1000, training loss: 0.8038, train acc: 0.7359, vali loss: 0.9428, vali acc: 0.7099.
+Batch: 0, loss 0.6903.
+Batch: 100, loss 0.6222.
+Batch: 200, loss 0.9645.
+Batch: 300, loss 0.7816.
+Batch: 400, loss 0.6959.
+Batch: 500, loss 0.6431.
+Batch: 600, loss 0.6890.
+Batch: 700, loss 0.7157.
+Batch: 800, loss 0.9256.
+Batch: 900, loss 0.7543.
+Batch: 1000, loss 0.6546.
+Epoch: 4/1000, training loss: 0.7121, train acc: 0.7611, vali loss: 0.9124, vali acc: 0.7205.
+Batch: 0, loss 0.6426.
+Batch: 100, loss 0.6053.
+Batch: 200, loss 0.4944.
+Batch: 300, loss 0.6095.
+Batch: 400, loss 0.5036.
+Batch: 500, loss 0.7288.
+Batch: 600, loss 0.7065.
+Batch: 700, loss 0.4813.
+Batch: 800, loss 0.4579.
+Batch: 900, loss 0.6699.
+Batch: 1000, loss 0.5305.
+Epoch: 5/1000, training loss: 0.6375, train acc: 0.7840, vali loss: 1.0125, vali acc: 0.6986.
+Batch: 0, loss 0.5821.
+Batch: 100, loss 0.6450.
+Batch: 200, loss 0.4961.
+Batch: 300, loss 0.6201.
+Batch: 400, loss 0.5013.
+Batch: 500, loss 0.6941.
+Batch: 600, loss 0.5604.
+Batch: 700, loss 0.3934.
+Batch: 800, loss 0.5912.
+Batch: 900, loss 0.6473.
+Batch: 1000, loss 0.7125.
+Epoch: 6/1000, training loss: 0.5683, train acc: 0.8060, vali loss: 0.9074, vali acc: 0.7387.
+Batch: 0, loss 0.4973.
+Batch: 100, loss 0.4243.
+Batch: 200, loss 0.4624.
+Batch: 300, loss 0.3361.
+Batch: 400, loss 0.4531.
+Batch: 500, loss 0.3450.
+Batch: 600, loss 0.3937.
+Batch: 700, loss 0.5556.
+Batch: 800, loss 0.5030.
+Batch: 900, loss 0.5994.
+Batch: 1000, loss 0.4638.
+Epoch: 7/1000, training loss: 0.5138, train acc: 0.8231, vali loss: 1.0047, vali acc: 0.7089.
+Batch: 0, loss 0.4524.
+Batch: 100, loss 0.4440.
+Batch: 200, loss 0.5008.
+Batch: 300, loss 0.4528.
+Batch: 400, loss 0.5298.
+Batch: 500, loss 0.4607.
+Batch: 600, loss 0.5098.
+Batch: 700, loss 0.3766.
+Batch: 800, loss 0.5001.
+Batch: 900, loss 0.4081.
+Batch: 1000, loss 0.5586.
+Epoch: 8/1000, training loss: 0.4633, train acc: 0.8395, vali loss: 0.9285, vali acc: 0.7329.
+Batch: 0, loss 0.5663.
+Batch: 100, loss 0.3834.
+Batch: 200, loss 0.5112.
+Batch: 300, loss 0.3161.
+Batch: 400, loss 0.2270.
+Batch: 500, loss 0.3474.
+Batch: 600, loss 0.4165.
+Batch: 700, loss 0.3022.
+Batch: 800, loss 0.4574.
+Batch: 900, loss 0.5042.
+Batch: 1000, loss 0.5771.
+Epoch: 9/1000, training loss: 0.4247, train acc: 0.8524, vali loss: 0.9980, vali acc: 0.7247.
+Batch: 0, loss 0.4887.
+Batch: 100, loss 0.3437.
+Batch: 200, loss 0.3084.
+Batch: 300, loss 0.3166.
+Batch: 400, loss 0.2738.
+Batch: 500, loss 0.3468.
+Batch: 600, loss 0.4259.
+Batch: 700, loss 0.4254.
+Batch: 800, loss 0.6237.
+Batch: 900, loss 0.4624.
+Batch: 1000, loss 0.5065.
+Epoch: 10/1000, training loss: 0.3893, train acc: 0.8643, vali loss: 1.0058, vali acc: 0.7350.
+Batch: 0, loss 0.3078.
+Batch: 100, loss 0.2836.
+Batch: 200, loss 0.3620.
+Batch: 300, loss 0.3109.
+Batch: 400, loss 0.5499.
+Batch: 500, loss 0.4043.
+Batch: 600, loss 0.3126.
+Batch: 700, loss 0.3143.
+Batch: 800, loss 0.4121.
+Batch: 900, loss 0.3379.
+Batch: 1000, loss 0.3632.
+Epoch: 11/1000, training loss: 0.3574, train acc: 0.8744, vali loss: 1.1284, vali acc: 0.7260.
+Early stopping
+Best epoch: 6, best loss: 0.9074.
+---Split 6---
+Batch: 0, loss 5.0817.
+Batch: 100, loss 2.3012.
+Batch: 200, loss 1.8036.
+Batch: 300, loss 1.6946.
+Batch: 400, loss 1.4117.
+Batch: 500, loss 1.2804.
+Batch: 600, loss 1.3069.
+Batch: 700, loss 1.0912.
+Batch: 800, loss 1.2386.
+Batch: 900, loss 1.2975.
+Batch: 1000, loss 1.1953.
+Epoch: 0/1000, training loss: 1.6693, train acc: 0.5209, vali loss: 1.2857, vali acc: 0.6150.
+Batch: 0, loss 0.9852.
+Batch: 100, loss 0.9963.
+Batch: 200, loss 1.3260.
+Batch: 300, loss 1.0517.
+Batch: 400, loss 0.9952.
+Batch: 500, loss 1.0852.
+Batch: 600, loss 0.9929.
+Batch: 700, loss 0.9416.
+Batch: 800, loss 0.9619.
+Batch: 900, loss 0.9163.
+Batch: 1000, loss 0.9234.
+Epoch: 1/1000, training loss: 1.1055, train acc: 0.6553, vali loss: 1.2014, vali acc: 0.6564.
+Batch: 0, loss 0.9824.
+Batch: 100, loss 0.9979.
+Batch: 200, loss 0.7321.
+Batch: 300, loss 0.8494.
+Batch: 400, loss 1.2737.
+Batch: 500, loss 1.0883.
+Batch: 600, loss 0.8524.
+Batch: 700, loss 0.9435.
+Batch: 800, loss 0.7991.
+Batch: 900, loss 0.8740.
+Batch: 1000, loss 0.8855.
+Epoch: 2/1000, training loss: 0.9180, train acc: 0.7040, vali loss: 1.0080, vali acc: 0.7025.
+Batch: 0, loss 0.9001.
+Batch: 100, loss 0.9649.
+Batch: 200, loss 0.9199.
+Batch: 300, loss 0.8583.
+Batch: 400, loss 0.6270.
+Batch: 500, loss 0.6453.
+Batch: 600, loss 0.7765.
+Batch: 700, loss 0.7559.
+Batch: 800, loss 0.7611.
+Batch: 900, loss 0.8654.
+Batch: 1000, loss 0.7016.
+Epoch: 3/1000, training loss: 0.7949, train acc: 0.7380, vali loss: 0.9789, vali acc: 0.7081.
+Batch: 0, loss 0.7469.
+Batch: 100, loss 0.7990.
+Batch: 200, loss 0.6074.
+Batch: 300, loss 0.6706.
+Batch: 400, loss 0.7113.
+Batch: 500, loss 0.5954.
+Batch: 600, loss 0.6135.
+Batch: 700, loss 0.7049.
+Batch: 800, loss 0.7582.
+Batch: 900, loss 0.7788.
+Batch: 1000, loss 0.5608.
+Epoch: 4/1000, training loss: 0.7059, train acc: 0.7624, vali loss: 1.1450, vali acc: 0.6793.
+Batch: 0, loss 0.6582.
+Batch: 100, loss 0.6021.
+Batch: 200, loss 0.5911.
+Batch: 300, loss 0.5864.
+Batch: 400, loss 0.6255.
+Batch: 500, loss 0.5834.
+Batch: 600, loss 0.6022.
+Batch: 700, loss 0.5764.
+Batch: 800, loss 0.6452.
+Batch: 900, loss 0.7207.
+Batch: 1000, loss 0.5791.
+Epoch: 5/1000, training loss: 0.6260, train acc: 0.7859, vali loss: 0.9465, vali acc: 0.7336.
+Batch: 0, loss 0.5112.
+Batch: 100, loss 0.5071.
+Batch: 200, loss 0.4703.
+Batch: 300, loss 0.7388.
+Batch: 400, loss 0.5610.
+Batch: 500, loss 0.5211.
+Batch: 600, loss 0.5185.
+Batch: 700, loss 0.5268.
+Batch: 800, loss 0.5713.
+Batch: 900, loss 0.5437.
+Batch: 1000, loss 0.6134.
+Epoch: 6/1000, training loss: 0.5609, train acc: 0.8064, vali loss: 1.0024, vali acc: 0.7102.
+Batch: 0, loss 0.4529.
+Batch: 100, loss 0.3748.
+Batch: 200, loss 0.5299.
+Batch: 300, loss 0.5412.
+Batch: 400, loss 0.5917.
+Batch: 500, loss 0.5160.
+Batch: 600, loss 0.5262.
+Batch: 700, loss 0.5262.
+Batch: 800, loss 0.5933.
+Batch: 900, loss 0.5504.
+Batch: 1000, loss 0.4862.
+Epoch: 7/1000, training loss: 0.5056, train acc: 0.8249, vali loss: 1.2729, vali acc: 0.6593.
+Batch: 0, loss 0.4661.
+Batch: 100, loss 0.4172.
+Batch: 200, loss 0.4486.
+Batch: 300, loss 0.4898.
+Batch: 400, loss 0.3605.
+Batch: 500, loss 0.4263.
+Batch: 600, loss 0.4436.
+Batch: 700, loss 0.4367.
+Batch: 800, loss 0.5342.
+Batch: 900, loss 0.4500.
+Batch: 1000, loss 0.4313.
+Epoch: 8/1000, training loss: 0.4551, train acc: 0.8416, vali loss: 1.1628, vali acc: 0.7036.
+Batch: 0, loss 0.4336.
+Batch: 100, loss 0.3928.
+Batch: 200, loss 0.3544.
+Batch: 300, loss 0.3459.
+Batch: 400, loss 0.5091.
+Batch: 500, loss 0.4464.
+Batch: 600, loss 0.4695.
+Batch: 700, loss 0.4403.
+Batch: 800, loss 0.4241.
+Batch: 900, loss 0.4857.
+Batch: 1000, loss 0.4817.
+Epoch: 9/1000, training loss: 0.4174, train acc: 0.8547, vali loss: 1.0488, vali acc: 0.7263.
+Batch: 0, loss 0.4588.
+Batch: 100, loss 0.3581.
+Batch: 200, loss 0.3917.
+Batch: 300, loss 0.3619.
+Batch: 400, loss 0.3828.
+Batch: 500, loss 0.4054.
+Batch: 600, loss 0.3902.
+Batch: 700, loss 0.4159.
+Batch: 800, loss 0.3406.
+Batch: 900, loss 0.4111.
+Batch: 1000, loss 0.3765.
+Epoch: 10/1000, training loss: 0.3850, train acc: 0.8667, vali loss: 1.1625, vali acc: 0.7147.
+Early stopping
+Best epoch: 5, best loss: 0.9465.
+---Split 7---
+Batch: 0, loss 4.9648.
+Batch: 100, loss 2.3433.
+Batch: 200, loss 1.8163.
+Batch: 300, loss 1.8255.
+Batch: 400, loss 1.6412.
+Batch: 500, loss 1.9685.
+Batch: 600, loss 1.5285.
+Batch: 700, loss 1.4067.
+Batch: 800, loss 1.3058.
+Batch: 900, loss 1.3415.
+Batch: 1000, loss 1.3724.
+Epoch: 0/1000, training loss: 1.7018, train acc: 0.5115, vali loss: 1.2544, vali acc: 0.6229.
+Batch: 0, loss 1.2317.
+Batch: 100, loss 1.3947.
+Batch: 200, loss 1.3188.
+Batch: 300, loss 0.9612.
+Batch: 400, loss 1.1857.
+Batch: 500, loss 1.4362.
+Batch: 600, loss 1.1727.
+Batch: 700, loss 1.1322.
+Batch: 800, loss 1.0859.
+Batch: 900, loss 1.2108.
+Batch: 1000, loss 0.9894.
+Epoch: 1/1000, training loss: 1.1219, train acc: 0.6501, vali loss: 1.1643, vali acc: 0.6514.
+Batch: 0, loss 0.9623.
+Batch: 100, loss 1.0652.
+Batch: 200, loss 0.8561.
+Batch: 300, loss 0.9022.
+Batch: 400, loss 1.0496.
+Batch: 500, loss 0.8640.
+Batch: 600, loss 0.9893.
+Batch: 700, loss 0.9607.
+Batch: 800, loss 0.9707.
+Batch: 900, loss 0.9528.
+Batch: 1000, loss 0.7803.
+Epoch: 2/1000, training loss: 0.9294, train acc: 0.7014, vali loss: 0.9558, vali acc: 0.7041.
+Batch: 0, loss 0.8878.
+Batch: 100, loss 0.8748.
+Batch: 200, loss 0.7386.
+Batch: 300, loss 0.9483.
+Batch: 400, loss 0.5283.
+Batch: 500, loss 0.7547.
+Batch: 600, loss 0.7553.
+Batch: 700, loss 0.8240.
+Batch: 800, loss 0.8412.
+Batch: 900, loss 0.5797.
+Batch: 1000, loss 0.7944.
+Epoch: 3/1000, training loss: 0.8042, train acc: 0.7358, vali loss: 1.0807, vali acc: 0.6817.
+Batch: 0, loss 0.7513.
+Batch: 100, loss 0.6982.
+Batch: 200, loss 0.6906.
+Batch: 300, loss 0.6131.
+Batch: 400, loss 0.9076.
+Batch: 500, loss 0.7161.
+Batch: 600, loss 0.5140.
+Batch: 700, loss 0.6632.
+Batch: 800, loss 0.6000.
+Batch: 900, loss 0.7793.
+Batch: 1000, loss 0.6818.
+Epoch: 4/1000, training loss: 0.7152, train acc: 0.7605, vali loss: 0.8985, vali acc: 0.7223.
+Batch: 0, loss 0.6755.
+Batch: 100, loss 0.6508.
+Batch: 200, loss 0.6944.
+Batch: 300, loss 0.7752.
+Batch: 400, loss 0.8118.
+Batch: 500, loss 0.8538.
+Batch: 600, loss 0.6805.
+Batch: 700, loss 0.6323.
+Batch: 800, loss 0.6180.
+Batch: 900, loss 0.7258.
+Batch: 1000, loss 0.6835.
+Epoch: 5/1000, training loss: 0.6354, train acc: 0.7838, vali loss: 0.9119, vali acc: 0.7223.
+Batch: 0, loss 0.4821.
+Batch: 100, loss 0.8015.
+Batch: 200, loss 0.5016.
+Batch: 300, loss 0.5291.
+Batch: 400, loss 0.5537.
+Batch: 500, loss 0.5901.
+Batch: 600, loss 0.5494.
+Batch: 700, loss 0.5940.
+Batch: 800, loss 0.5701.
+Batch: 900, loss 0.6150.
+Batch: 1000, loss 0.6440.
+Epoch: 6/1000, training loss: 0.5718, train acc: 0.8037, vali loss: 0.9292, vali acc: 0.7226.
+Batch: 0, loss 0.7152.
+Batch: 100, loss 0.5523.
+Batch: 200, loss 0.5304.
+Batch: 300, loss 0.5517.
+Batch: 400, loss 0.5653.
+Batch: 500, loss 0.6216.
+Batch: 600, loss 0.4801.
+Batch: 700, loss 0.4433.
+Batch: 800, loss 0.5345.
+Batch: 900, loss 0.5016.
+Batch: 1000, loss 0.3868.
+Epoch: 7/1000, training loss: 0.5163, train acc: 0.8215, vali loss: 0.9109, vali acc: 0.7431.
+Batch: 0, loss 0.4139.
+Batch: 100, loss 0.3615.
+Batch: 200, loss 0.6183.
+Batch: 300, loss 0.4074.
+Batch: 400, loss 0.4714.
+Batch: 500, loss 0.4651.
+Batch: 600, loss 0.3763.
+Batch: 700, loss 0.6396.
+Batch: 800, loss 0.4624.
+Batch: 900, loss 0.4676.
+Batch: 1000, loss 0.4941.
+Epoch: 8/1000, training loss: 0.4664, train acc: 0.8386, vali loss: 0.9539, vali acc: 0.7331.
+Batch: 0, loss 0.3815.
+Batch: 100, loss 0.4225.
+Batch: 200, loss 0.4526.
+Batch: 300, loss 0.5336.
+Batch: 400, loss 0.5711.
+Batch: 500, loss 0.5022.
+Batch: 600, loss 0.4457.
+Batch: 700, loss 0.4764.
+Batch: 800, loss 0.3011.
+Batch: 900, loss 0.4915.
+Batch: 1000, loss 0.4234.
+Epoch: 9/1000, training loss: 0.4271, train acc: 0.8512, vali loss: 0.9657, vali acc: 0.7360.
+Early stopping
+Best epoch: 4, best loss: 0.8985.
